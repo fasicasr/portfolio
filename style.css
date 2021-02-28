@@ -73,7 +73,8 @@ header nav ul li {
     bottom: 8px;
     right: 16px;
     font-size: 40px;
-    background-color:#d4f0ea;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:#398a9e;
     color:  #535353;
 }
   
@@ -85,7 +86,7 @@ img {
 h3 {
     display: inline-block;
     font-size: 40px;
-    background-color:#d4f0ea;
+    background-color:#398a9e;
     color:  #535353;
     margin-top: 10em;
 }
@@ -93,7 +94,7 @@ h3 {
 h4 {
     display: inline-block;
     font-size: 40px;
-    background-color:#d4f0ea;
+    background-color:#398a9e;
     color:  #535353;
     margin-top: 2em;
 }
@@ -147,7 +148,7 @@ h4 {
     border-width: thick;
     color: black;
     border-color: #398a9e;
-    background-image: url(./images/LED.png)
+    background-image: url(./images/coderefactor.jpg)
     
   }
 
@@ -161,7 +162,7 @@ h4 {
     border-width: thick;
     color: black;
     border-color: #398a9e;
-    background-image: url(./images/surfpic.jpg);
+    background-image: url(./images/box2.jpg);
     cursor: pointer;
 }
 
@@ -175,7 +176,7 @@ h4 {
     border-width: thick;
     color: black;
     border-color: #398a9e;
-    background-image: url(./images/js.png);
+    background-image: url(./images/box3.jpg);
     cursor: pointer;
 }
 
@@ -189,7 +190,7 @@ h4 {
     border-width: thick;
     color: black;
     border-color: #398a9e;
-    background-image: url(./images/MERN.png);
+    background-image: url(./images/box4.jpg);
     cursor: pointer;
   }
 
@@ -203,7 +204,7 @@ h4 {
     border-width: thick;
     color: black;
     border-color: #398a9e;
-    background-image: url(./images/htmlcss.jpg);
+    background-image: url(./images/box5.jpg);
     cursor: pointer;
 }
   
