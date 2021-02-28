@@ -14,7 +14,11 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 20px;
+    position: relative;
+    top: 10px;
+    color:  #535353;
+
 }
 /*header content*/
 header {
@@ -68,7 +72,7 @@ header nav ul li {
     position: relative;
 }
   
-  .bottomright {
+.bottomright {
     position: absolute;
     bottom: 8px;
     right: 16px;
@@ -129,7 +133,18 @@ h4 {
 .aboutme2 {
     font-size: 25px;
 }
-  
+
+.mypic {
+    float: left;
+    width: 85px;
+    height: 130px;
+    margin-top: 5px;
+    margin-right: 25px;
+    border: solid;
+    border-width: thick;
+    color: black;
+    border-color: #398a9e;
+}
 .work2 {
     margin: 10px;
     padding: 20px;
@@ -221,7 +236,7 @@ li {
 }
   
 .fade {
-    opacity:0.8;
+    opacity:0.5;
     transition: 1s ease;
 }
 
@@ -250,19 +265,3 @@ main {
 footer {
     width: 100%;
 }
-/*
-.footer {
-    display: none;
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h3 {
-    display: none;
-    font-size: 20px;
-    display: inline-block;
-    margin-left: 25px;
-}
-*/
