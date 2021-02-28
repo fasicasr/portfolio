@@ -163,7 +163,8 @@ h4 {
     border-width: thick;
     color: black;
     border-color: #398a9e;
-    background-image: url(./images/coderefactor.jpg)
+    background-image: url(./images/coderefactor.jpg);
+    background-size: cover;
     
   }
 
@@ -179,6 +180,7 @@ h4 {
     border-color: #398a9e;
     background-image: url(./images/box2.jpg);
     cursor: pointer;
+    background-size: cover;
 }
 
 .box3 {
@@ -193,6 +195,7 @@ h4 {
     border-color: #398a9e;
     background-image: url(./images/box3.jpg);
     cursor: pointer;
+    background-size: cover;
 }
 
 .box4 {
@@ -207,6 +210,7 @@ h4 {
     border-color: #398a9e;
     background-image: url(./images/box4.jpg);
     cursor: pointer;
+    background-size: cover;
   }
 
 .box5 {
@@ -221,6 +225,7 @@ h4 {
     border-color: #398a9e;
     background-image: url(./images/box5.jpg);
     cursor: pointer;
+    background-size: cover;
 }
   
 ul {
